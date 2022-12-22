@@ -1,4 +1,4 @@
-### Hi there 🧙‍
+### Hi there 👋
 
 - 🧙‍ I'm Pedro Lucas, a software engineering student from Brazil. 
 - 🌱 I’m currently learning front-end skills, now I'm focusing on Javascript. 
@@ -11,8 +11,8 @@
 
 <div style="display: inline_block;" align="center">
   <a href="https://github.com/pdrollucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdrollucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrollucas&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pdrollucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrollucas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block;" align="center"><br>
