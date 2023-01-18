@@ -5,7 +5,6 @@
 - 💬 You can ask me basic things about HTML and CSS, i will try to help you :)
 - 📫 Find me on my LinkedIn profile: <a href="https://www.linkedin.com/in/pedro-lucas-luckow-55b5b6214/">Pedro Lucas</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You can call me to play soccer, I would love it!!
 
 <br>
 
