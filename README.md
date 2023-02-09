@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🧙‍ I'm Pedro Lucas, a software engineering student from Brazil. 
-- 🌱 I’m currently learning front-end skills and now I'm focusing on Javascript. 
+- 🌱 I’m currently learning front-end skills and now I'm focusing on Javascript and React.JS. 
 - 💬 You can ask me basic things about HTML and CSS, i will try to help you :)
 - 📫 Find me on my LinkedIn profile: <a href="https://www.linkedin.com/in/pedro-lucas-luckow-55b5b6214/">Pedro Lucas</a>
 - 😄 Pronouns: He/Him
