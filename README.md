@@ -6,7 +6,7 @@
 - 📫 Find me on my LinkedIn profile: <a href="https://www.linkedin.com/in/pedro-lucas-luckow-55b5b6214/">Pedro Lucas</a>
 - 📫 Find me on my eMail: pedrolucasluckow@hotmail.com
 - 😄 Pronouns: He/Him
-- 🪄 Plus: I also like study design and now I'm learning about game design / pixel art
+- 🐱‍🏍: I also like study design and now I'm learning about Figma. Reading, going to the gym and hanging out with my friends are also things that I like. 
 
 <br>
 
