@@ -2,11 +2,7 @@
 
 - 🧙‍ I'm Pedro Lucas, a software engineering student from Brazil - SC. 
 - 🔮 I’m currently learning front-end skills and working as a junior front-end developer with Vue.JS; 
-- 💬 You can ask me basic things about HTML and CSS, i will try to help you :)
 - 📫 Find me on my LinkedIn profile: <a href="https://www.linkedin.com/in/pedro-lucas-luckow-55b5b6214/">Pedro Lucas</a>
-- 📫 Find me on my eMail: pedrolucasluckow@hotmail.com
-- 😄 Pronouns: He/Him
-- 🐱‍🏍: I also like study design and now I'm learning about Figma. Reading, going to the gym and hanging out with my friends are also things that I like. 
 
 <br>
 
